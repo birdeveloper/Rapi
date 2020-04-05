@@ -134,6 +134,15 @@ dependencies {
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+### Setup
+
+```sh
+        val headers: WeakHashMap<String, String> = WeakHashMap()
+        headers["Authorization"] = "Bearer vF9dft4qmTFDfd27asWEgf"
+        Rapi.init(this,Constants.BASE_URL, headers, 120)
+        // context, base url, headers, timeout
+```
+
 ### GET Request
 
 ```sh
