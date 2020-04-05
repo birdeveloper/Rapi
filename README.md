@@ -65,6 +65,7 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
+  * [Setup](#setup)
   * [GET Request](#get-request)
   * [POST Request](#post-request)
   * [POST RAW Request](#post-raw-request)
