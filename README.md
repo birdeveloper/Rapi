@@ -140,7 +140,7 @@ dependencies {
 ```sh
         val headers: WeakHashMap<String, String> = WeakHashMap()
         headers["Authorization"] = "Bearer vF9dft4qmTFDfd27asWEgf"
-        Rapi.init(this,Constants.BASE_URL, headers, 120)
+        Rapi.init(this,Constants.BASE_URL, headers or null, 120)
         // context, base url, headers, timeout
 ```
 
