@@ -41,7 +41,7 @@
   <h3 align="center">Rapi</h3>
 
   <p align="center">
-    We have made retrofit more complex!
+    We made retrofit more understandable !! RAPI
     <br />
     <a href="https://github.com/birdeveloper/rapi"><strong>Explore the docs »</strong></a>
     <br />
