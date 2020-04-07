@@ -380,7 +380,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@gorkemkara](https://www.linkedin.com/in/gorkemkara/) - [email](mailto:birdeveloper.com@gmail.com)
+Görkem KARA - [@gorkemkara](https://www.linkedin.com/in/gorkemkara/) - [email](mailto:birdeveloper.com@gmail.com)
 
 Project Link: [https://github.com/birdeveloper/rapi](https://github.com/birdeveloper/rapi)
 
